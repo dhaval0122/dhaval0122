@@ -23,3 +23,7 @@ Transforming ambiguous concepts into scalable, working products.
 I have 12+ years of experience in IT software delivery, mobile/web platforms, and product execution. My current focus is on AI-native workflows, AI agents, automation, data workflows, and intelligent product systems.
 
 I enjoy working at the intersection of product thinking, engineering execution, and emerging AI tools — turning unclear ideas into structured plans, practical systems, and shipped products.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhaval_Parmar-blue)](https://www.linkedin.com/in/dhaval-sodha-parmar/)
