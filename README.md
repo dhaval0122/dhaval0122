@@ -1,3 +1,5 @@
+<p align="center"> <img src="./linked_in_cover_2.png" alt="AI era profile cover" width="100%" /> </p>
+
 ## Hi, I'm Dhaval Parmar 👋
 
 <!--
