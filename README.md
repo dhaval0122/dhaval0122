@@ -27,3 +27,15 @@ I enjoy working at the intersection of product thinking, engineering execution, 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhaval_Parmar-blue)](https://www.linkedin.com/in/dhaval-sodha-parmar/)
+
+<p align="left">
+  <a href="https://blog.dsquaredlabs.io">
+    <img src="https://img.shields.io/badge/Blogger-DsquaredLabs-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhaval%20Parmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#hi-im-dhaval-parmar-">
+    <img src="https://img.shields.io/badge/About%20Me-AI%20%26%20Automation-1F2937?style=for-the-badge&logo=readme&logoColor=white" alt="About Me" />
+  </a>
+</p>
