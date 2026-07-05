@@ -26,8 +26,6 @@ I enjoy working at the intersection of product thinking, engineering execution, 
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhaval_Parmar-blue)](https://www.linkedin.com/in/dhaval-sodha-parmar/)
-
 <p align="left">
   <a href="https://dj-android.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/Blogger-djandroid-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
