@@ -29,13 +29,13 @@ I enjoy working at the intersection of product thinking, engineering execution, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhaval_Parmar-blue)](https://www.linkedin.com/in/dhaval-sodha-parmar/)
 
 <p align="left">
-  <a href="https://dj-android.blogspot.com">
+  <a href="https://dj-android.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/Blogger-djandroid-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
   </a>
-  <a href="https://www.linkedin.com/in/dhaval-sodha-parmar">
+  <a href="https://www.linkedin.com/in/dhaval-sodha-parmar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhaval%20Parmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://about.me/dhavalsodhaparmar">
-    <img src="https://img.shields.io/badge/About%20Me-AI%20%26%20Automation-1F2937?style=for-the-badge&logo=readme&logoColor=white" alt="About Me" />
+  <a href="https://about.me/dhavalsodhaparmar" target="_blank">
+    <img src="https://img.shields.io/badge/About.me-Dhaval%20Parmar-1F2937?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About.me" />
   </a>
 </p>
